@@ -7,7 +7,7 @@ The two pages the App Store listing points at:
 | `index.html`   | https://snurfed.github.io/scrapborn/ |
 | `privacy.html` | https://snurfed.github.io/scrapborn/privacy.html |
 
-This repository is public only because GitHub Pages has to be. It holds no
-game code — the source lives in the private Scrapborn repository, and these
-two files are copies of `Store/site/` there. Edit them there and copy across,
-so the listing copy stays reviewable alongside the code it describes.
+This repository is public only because GitHub Pages has to be, and it holds
+no game code. Both pages are copies of `Store/site/` in the Scrapborn project
+itself, which is where they should be edited — that keeps the listing copy
+reviewable alongside the code it describes. Copy across and push from here.
